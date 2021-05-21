@@ -17,7 +17,7 @@ const skills = {
   tools: [Laravel, React, nextjs, Node, Storybook, Styled-Components, Jest, Strapi, Cypress, Testing Library],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        speaker: "Latinity",
+                        speaker: false,
                         mentor: "matheusagcosta"
                       },
  goal: "Focus on laying a single, expertly-placed brick. Then keep doing that, every day"
