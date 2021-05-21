@@ -14,7 +14,8 @@
 ```javascript
 const skills = {
   code: [Javascript, Typescript, HTML, CSS, PHP, GraphQL],
-  tools: [Wordpress, Laravel, React, nextjs, Node, Storybook, Styled-Components, Jest, Strapi, Cypress, Testing Library],
+  tools: [Wordpress, Laravel, React, nextjs, Node, Storybook, 
+         Styled-Components, Jest, Strapi, Cypress, Testing Library],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         speaker: false,
