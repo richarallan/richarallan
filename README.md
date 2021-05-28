@@ -14,7 +14,7 @@
 ```javascript
 const skills = {
   code: [Javascript, Typescript, HTML, CSS, PHP, GraphQL],
-  tools: [Wordpress, Laravel, React, nextjs, Node, Storybook, 
+  tools: [Wordpress, Laravel, React, nextjs, Node, Storybook, pug, 
          Styled-Components, Jest, Strapi, Cypress, Testing Library],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -29,9 +29,11 @@ const skills = {
 
 [![Linkedin: richarallan](https://img.shields.io/badge/-RicharAllan-white?style=flat-square&logo=twitter&logoColor=Blue&link=https://www.twitter.com/richarallan)](https://www.twitter.com/richarallan)
 [![Linkedin: richarallan](https://img.shields.io/badge/-RicharAllan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarallan/)](https://www.linkedin.com/in/richarallan/)
-[![Linkedin: richarallan](https://img.shields.io/badge/-RicharAllan-black?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/richarallanm)](https://open.spotify.com/user/richarallanm)
+
+
 
 <!--
+[![Linkedin: richarallan](https://img.shields.io/badge/-RicharAllan-black?style=flat-square&logo=Spotify&logoColor=green&link=https://open.spotify.com/user/richarallanm)](https://open.spotify.com/user/richarallanm)
 **richarallan/richarallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 github readme inspirations
 https://awesomegithubprofile.tech/
